@@ -1,0 +1,16 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Variáveis de ambiente (NUNCA versionar secrets)
+.env
+
+# IDE
+.vscode/
+.idea/
